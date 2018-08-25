@@ -1,0 +1,14 @@
+.tilt {
+	display: block;
+	float: left;
+	height:150px;
+	width:150px;
+	background: linear-gradient(89deg, #2edab7 0%, #1d9bc4 100%);
+	transform-style: preserve-3d;
+}
+
+.tilt img {
+	margin-top:22px;
+	height: 100px;
+	width: 100px;
+}
